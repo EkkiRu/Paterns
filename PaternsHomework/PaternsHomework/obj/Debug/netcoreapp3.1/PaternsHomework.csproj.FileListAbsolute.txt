@@ -1,0 +1,13 @@
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\bin\Debug\netcoreapp3.1\PaternsHomework.exe
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\bin\Debug\netcoreapp3.1\PaternsHomework.deps.json
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\bin\Debug\netcoreapp3.1\PaternsHomework.runtimeconfig.json
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\bin\Debug\netcoreapp3.1\PaternsHomework.runtimeconfig.dev.json
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\bin\Debug\netcoreapp3.1\PaternsHomework.dll
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\bin\Debug\netcoreapp3.1\PaternsHomework.pdb
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\obj\Debug\netcoreapp3.1\PaternsHomework.csprojAssemblyReference.cache
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\obj\Debug\netcoreapp3.1\PaternsHomework.AssemblyInfoInputs.cache
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\obj\Debug\netcoreapp3.1\PaternsHomework.AssemblyInfo.cs
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\obj\Debug\netcoreapp3.1\PaternsHomework.csproj.CoreCompileInputs.cache
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\obj\Debug\netcoreapp3.1\PaternsHomework.dll
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\obj\Debug\netcoreapp3.1\PaternsHomework.pdb
+C:\Users\rukzw\source\repos\PaternsHomework\PaternsHomework\obj\Debug\netcoreapp3.1\PaternsHomework.genruntimeconfig.cache
